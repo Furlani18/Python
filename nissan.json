@@ -1,0 +1,186 @@
+[
+    {
+        "marca": "Nissan",
+        "modelo": "Kicks Advance CVT + Pack Plus",
+        "ano": 2024,
+        "preco": 138.19,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Kicks Active CVT",
+        "ano": 2024,
+        "preco": 112.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Kicks Active CVT + Multim\u00eddia",
+        "ano": 2024,
+        "preco": 114.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Kicks Sense CVT",
+        "ano": 2024,
+        "preco": 118.29,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Kicks Advance CVT",
+        "ano": 2024,
+        "preco": 135.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Kicks Exclusive CVT",
+        "ano": 2024,
+        "preco": 150.19,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Kicks Exclusive CVT + Pack TECH",
+        "ano": 2024,
+        "preco": 152.19,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "S MT 4X4",
+        "ano": 2024,
+        "preco": 242.79,
+        "tipo": "Caminhonente",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan ",
+        "modelo": "SE AT 4X4",
+        "ano": 2024,
+        "preco": 252.59,
+        "tipo": "Caminhonete",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Attack AT 4x4",
+        "ano": 2024,
+        "preco": 266.59,
+        "tipo": "Caminhonete",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "XE AT 4X4",
+        "ano": 2024,
+        "preco": 280.19,
+        "tipo": "Caminhonete",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Platinum AT 4X4",
+        "ano": 2024,
+        "preco": 307.99,
+        "tipo": "Caminhonete",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "PRO-4X AT 4X4",
+        "ano": 2024,
+        "preco": 307.99,
+        "tipo": "Caminhonete",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Advance CVT",
+        "ano": 2024,
+        "preco": 156.39,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Exclusive CVT",
+        "ano": 2024,
+        "preco": 176.69,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Exclusive CVT Int.Premium",
+        "ano": 2024,
+        "preco": 178.39,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Versa 1.6 Sense CVT",
+        "ano": 2024,
+        "preco": 110.59,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Versa 1.6 Advance CVT",
+        "ano": 2024,
+        "preco": 117.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Versa 1.6 SR CVT",
+        "ano": 2024,
+        "preco": 123.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Versa 1.6 Exclusive CVT",
+        "ano": 2024,
+        "preco": 132.19,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Sentra Advance CVT",
+        "ano": 2024,
+        "preco": 156.39,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Sentra Exclusive CVT",
+        "ano": 2024,
+        "preco": 176.69,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "Sentro Exclusive CVT Int.Premium",
+        "ano": 2024,
+        "preco": 178.39,
+        "tipo": "Carro",
+        "vendido": false
+    }
+]

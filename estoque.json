@@ -1,0 +1,42 @@
+[
+    {
+        "marca": "Fiat",
+        "modelo": "Toro Volcano ",
+        "ano": 2023,
+        "preco": 170.0,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Compass",
+        "ano": 2022,
+        "preco": 120.0,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Wolkwsagem",
+        "modelo": "Polo",
+        "ano": 2021,
+        "preco": 85.0,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Fiat",
+        "modelo": "Toro",
+        "ano": 2024,
+        "preco": 130.0,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Renegade",
+        "ano": 2022,
+        "preco": 110.0,
+        "tipo": "Carro",
+        "vendido": false
+    }
+]

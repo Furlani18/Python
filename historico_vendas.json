@@ -1,0 +1,18 @@
+[
+    {
+        "marca": "Fiat",
+        "modelo": "Fiat Mobi Like 72.990",
+        "ano": 2024,
+        "preco": 72.99,
+        "tipo": "Carro",
+        "vendido": true
+    },
+    {
+        "marca": "Fiat",
+        "modelo": "Fiat Mobi Like 72.990",
+        "ano": 2024,
+        "preco": 72.99,
+        "tipo": "Carro",
+        "vendido": true
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "marca": "Chevrolet",
+        "modelo": "Onix",
+        "ano": 2025,
+        "preco": 89.29,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Onix Plus",
+        "ano": 2024,
+        "preco": 100.49,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "ano": 2023,
+        "preco": 149.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "CHevrolet",
+        "modelo": "Cruze Sport6 RS",
+        "ano": 2024,
+        "preco": 169.67,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Spin",
+        "ano": 2025,
+        "preco": 121.79,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Tracker",
+        "ano": 2025,
+        "preco": 119.9,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Equinox ",
+        "ano": 2024,
+        "preco": 225.71,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Trailblazer ",
+        "ano": 2025,
+        "preco": 374.19,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Montana",
+        "ano": 2025,
+        "preco": 128.99,
+        "tipo": "Caminhonete",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Silverado",
+        "ano": 2024,
+        "preco": 537.85,
+        "tipo": "Caminhonete",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet.json",
+        "modelo": "Linha S10 ",
+        "ano": 2025,
+        "preco": 285.99,
+        "tipo": "Caminhonete",
+        "vendido": false
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Camaro Collection",
+        "ano": 2023,
+        "preco": 555.0,
+        "tipo": "Esportivos",
+        "vendido": false
+    }
+]

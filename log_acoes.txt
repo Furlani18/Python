@@ -1,0 +1,3 @@
+Estoque carregado do arquivo 'jeep.json'.
+Estoque carregado do arquivo 'nissan.json'.
+Estoque carregado do arquivo 'chevrolet.json'.

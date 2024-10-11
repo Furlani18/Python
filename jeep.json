@@ -1,0 +1,202 @@
+[
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Renegade 1.3 Turbo ",
+        "ano": 2024,
+        "preco": 118.29,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Renegade Sport",
+        "ano": 2024,
+        "preco": 143.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Renegade Longitude",
+        "ano": 2024,
+        "preco": 162.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Renegade Longitude Dark Pack",
+        "ano": 2024,
+        "preco": 169.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Renegade S\u00e9ries S",
+        "ano": 2024,
+        "preco": 187.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Renegade Trailhawk",
+        "ano": 2024,
+        "preco": 187.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Compass SportT270",
+        "ano": 2024,
+        "preco": 179.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Compass LongitudeT270",
+        "ano": 2024,
+        "preco": 196.99,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Compass Longitude Night Eagle",
+        "ano": 2024,
+        "preco": 205.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Compass LimitedT270",
+        "ano": 2024,
+        "preco": 216.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Compass Series ST270",
+        "ano": 2024,
+        "preco": 236.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Compass LimitedTD350",
+        "ano": 2024,
+        "preco": 249.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Compass Overland Hurricane ",
+        "ano": 2024,
+        "preco": 266.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "jeep",
+        "modelo": "Jeep Compass BlackHawk",
+        "ano": 2024,
+        "preco": 279.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Compass S\u00e9ries S 4XE H\u00edbrido",
+        "ano": 2024,
+        "preco": 347.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Comander Longitude T270",
+        "ano": 2024,
+        "preco": 217.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Comander LimitedT270",
+        "ano": 2024,
+        "preco": 240.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Comander Overland T270",
+        "ano": 2024,
+        "preco": 262.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Comander Overland TD380",
+        "ano": 2024,
+        "preco": 298.29,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Comander Overland Hurricane ",
+        "ano": 2024,
+        "preco": 308.29,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Comander Blackhawk Hurricane",
+        "ano": 2024,
+        "preco": 321.99,
+        "tipo": "SUV",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Wrangler Shara",
+        "ano": 2024,
+        "preco": 456.992,
+        "tipo": "Carro",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Wrangler Shara Unlimited",
+        "ano": 2024,
+        "preco": 466.889,
+        "tipo": "Off-road",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Wrangler Rubicon",
+        "ano": 2024,
+        "preco": 481.834,
+        "tipo": "Off-road",
+        "vendido": false
+    },
+    {
+        "marca": "Jeep",
+        "modelo": "Jeep Grand Cherokee 4XE",
+        "ano": 2024,
+        "preco": 569.99,
+        "tipo": "SUV",
+        "vendido": false
+    }
+]
